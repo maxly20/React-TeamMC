@@ -25,7 +25,7 @@ const Text = () => {
             transform: `translate(260px,170px) rotateY(${rotate}deg)`,
           }}
         >
-          5
+          6
         </div>
       )}
     </Animate>
@@ -54,7 +54,7 @@ const Text = () => {
             transform: `translate(${x}px,${y}px)`,
           }}
         >
-          League
+          PremierLeague
         </div>
       )}
     </Animate>
