@@ -32,9 +32,9 @@ export const CityLogo = (props) => {
 export const Tag = (props) => {
     const template = <div
         style={{
-            background: props.bck ? props.bck : '#ffffff',
+            background: props.bck ? props.bck : '#fff',
             fontSize: props.size ? props.size : '15px',
-            color: props.color ? props.color : '#000000',
+            color: props.color ? props.color : '#000',
             padding: '5px 10px',
             display: 'inline-block',
             fontFamily: 'Righteous',
