@@ -3,7 +3,7 @@ export const cityDb = {
         {
             "away": "Man.City",
             "awayThmb": "manchester_city",
-            "date": "2018-05-22",
+            "date": "2021-05-22",
             "final": "No",
             "local": "Burnley",
             "localThmb": "burnley",
@@ -16,7 +16,7 @@ export const cityDb = {
         {
             "away": "Man.City",
             "awayThmb": "manchester_city",
-            "date": "2019-05-28",
+            "date": "2021-05-28",
             "final": "Yes",
             "local": "Tottenham",
             "localThmb": "tottenham",
@@ -29,7 +29,7 @@ export const cityDb = {
         {
             "away": "Man.City",
             "awayThmb": "manchester_city",
-            "date": "2019-03-11",
+            "date": "2021-03-11",
             "final": "Yes",
             "local": "Newcastle",
             "localThmb": "newcastle",
@@ -42,7 +42,7 @@ export const cityDb = {
         {
             "away": "Man.City",
             "awayThmb": "manchester_city",
-            "date": "2019-05-01",
+            "date": "2021-05-01",
             "final": "Yes",
             "local": "Chelsea",
             "localThmb": "chelsea",
@@ -55,7 +55,7 @@ export const cityDb = {
         {
             "away": "Man.City",
             "awayThmb": "manchester_city",
-            "date": "2018-11-30",
+            "date": "2021-11-30",
             "final": "Yes",
             "local": "Cardiff",
             "localThmb": "cardiff",
@@ -68,7 +68,7 @@ export const cityDb = {
         {
             "away": "Man.Utd",
             "awayThmb": "manchesr_united",
-            "date": "2019-01-25",
+            "date": "2021-01-25",
             "final": "Yes",
             "local": "Man.City",
             "localThmb": "manchester_city",
@@ -81,7 +81,7 @@ export const cityDb = {
         {
             "away": "Man.City",
             "awayThmb": "manchester_city",
-            "date": "2018-06-08",
+            "date": "2021-06-08",
             "final": "Yes",
             "local": "Brighton",
             "localThmb": "brighton",
@@ -94,7 +94,7 @@ export const cityDb = {
         {
             "away": "Man.City",
             "awayThmb": "manchester_city",
-            "date": "2018-06-15",
+            "date": "2021-06-15",
             "final": "Yes",
             "local": "Bournemouth",
             "localThmb": "bournemouth",
@@ -107,7 +107,7 @@ export const cityDb = {
         {
             "away": "Man.City",
             "awayThmb": "manchester_city",
-            "date": "2018-06-07",
+            "date": "2021-06-07",
             "final": "Yes",
             "local": "Arsenal",
             "localThmb": "arsenal",
@@ -120,7 +120,7 @@ export const cityDb = {
         {
             "away": "C.Palace",
             "awayThmb": "crystal_palace",
-            "date": "2018-06-02",
+            "date": "2021-06-02",
             "final": "Yes",
             "local": "Man.City",
             "localThmb": "manchester_city",
@@ -133,7 +133,7 @@ export const cityDb = {
         {
             "away": "Man.City",
             "awayThmb": "manchester_city",
-            "date": "2018-06-02",
+            "date": "2021-06-02",
             "final": "Yes",
             "local": "Liverpool",
             "localThmb": "liverpool",
@@ -146,7 +146,7 @@ export const cityDb = {
         {
             "away": "Hudd.Town",
             "awayThmb": "huddersfield",
-            "date": "2018-12-13",
+            "date": "2021-12-13",
             "final": "No",
             "local": "Man.City",
             "localThmb": "manchester_city",
