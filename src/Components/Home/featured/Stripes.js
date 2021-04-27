@@ -13,7 +13,7 @@ let stripesState = [
   },
   {
     id: 20392323,
-    background: '#ffffff',
+    background: '#fff',
     left: 360,
     rotate: 25,
     top: -394,
