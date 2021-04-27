@@ -36,7 +36,7 @@ const Stripes = () => {
         key={stripe.id}
         show={true}
         start={{
-          background: '#ffffff',
+          background: '#fff',
           opacity: 0,
           left: 0,
           rotate: 0,
