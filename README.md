@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# Team MC
+A website built for the international football club Manchester City.
+Project was built with :
+- React
+- Firebase
+- Firestore
+- Formik
+- Yup
+- D3-ease
+- React Awesome Reveal
+- React Move
+- React Toastify
+
+Deployed live at : 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
