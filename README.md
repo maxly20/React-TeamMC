@@ -1,5 +1,5 @@
 # Team MC
-A website built for the international football club Manchester City.
+A React website built for the international football club Manchester City.
 Project was built with :
 - React
 - Firebase
