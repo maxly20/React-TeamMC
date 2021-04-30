@@ -13,7 +13,7 @@ Project was built with :
 
 Deployed live at : https://maxly-teammc.netlify.app
 
-![](SitePreview.jpg)
+![](SitePreview.png)
 
 ## Getting Started with Create React App
 
