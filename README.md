@@ -11,7 +11,7 @@ Project was built with :
 - React Move
 - React Toastify
 
-Deployed live at : https://maxly-teammc.netlify.app
+Deployed live at : https://teammc-c396f.web.app/
 
 ![](SitePreview.png)
 
