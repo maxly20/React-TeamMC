@@ -1,0 +1,72 @@
+.admin_container {
+  margin-top: 96px;
+  display: flex;
+}
+
+.admin_container .admin_nav_link {
+  color: #ffffff;
+  font-weight: 300;
+  border-bottom: 1px solid #353535;
+}
+
+.admin_container .admin_left_nav {
+  min-height: 100vh;
+  background: #282828;
+  border-right: 2px solid #01285e;
+}
+
+.admin_container .admin_right {
+  flex-grow: 1;
+  padding: 20px;
+}
+.admin_container .admin_progress {
+  text-align: center;
+  margin: 20px 0px;
+}
+
+.admin_container .matches_tag_red {
+  font-weight: 700;
+  color: #f44336;
+}
+
+.admin_container .matches_tag_green {
+  font-weight: 700;
+  color: #4caf50;
+}
+
+.admin_container h2 {
+  margin: 0px 0px 50px 0px;
+  border-bottom: 1px solid #dbdbdb;
+  color: #414141;
+  font-size: 40px;
+}
+
+.select_team_layout .wrapper {
+  display: flex;
+}
+
+.select_team_layout .wrapper .left {
+  flex-grow: 1;
+}
+
+.select_team_layout input[name='result_local_input'],
+.select_team_layout input[name='result_away_input'] {
+  width: 60px;
+  text-align: center;
+  background: #98c6e9;
+  color: #ffffff;
+}
+
+.admin_submit button {
+  font-size: 20px;
+  margin: 40px 0px;
+  background: #009688;
+}
+
+.editmatch_dialog_wrapper hr {
+  margin: 20px 0px;
+}
+
+.MuiSelect-outlined.MuiSelect-outlined {
+  min-width: 164px;
+}
