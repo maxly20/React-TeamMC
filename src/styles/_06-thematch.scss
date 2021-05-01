@@ -1,0 +1,39 @@
+.the_matches_container {
+  margin-top: 96px;
+}
+
+.the_matches_wrapper {
+  display: flex;
+}
+
+.the_matches_wrapper .left {
+  flex-grow: 1;
+}
+
+.the_matches_wrapper .right {
+  width: 400px;
+}
+
+.league_table_wrapper {
+  border-left: 1px solid #98c6e9;
+  background: #98c6e9;
+}
+.league_table_wrapper .title {
+  padding: 22px;
+  font-size: 22px;
+  color: #ffffff;
+  background: #98c6e9;
+  border-bottom: 1px solid #01285e;
+}
+
+.the_matches_wrapper .progress {
+  text-align: center;
+  padding: 60px 0px;
+}
+
+.league_table_wrapper .MuiTableCell-root {
+  padding: 4px 16px 4px 11px;
+  border-bottom: 1px solid #ffffff;
+  color: #ffffff;
+  text-align: center;
+}
