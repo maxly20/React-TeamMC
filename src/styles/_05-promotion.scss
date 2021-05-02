@@ -1,64 +1,54 @@
 .promotion_wrapper {
   padding: 30px 0px 130px 0px;
-  background: #ffffff;
-}
-
-.promotion_wrapper .promotion_animation {
-  display: flex;
-  padding: 80px 0px 30px 0px;
-}
-
-.promotion_wrapper .promotion_animation .left {
-  text-transform: uppercase;
-  text-transform: uppercase;
-  font-size: 150px;
-  font-family: 'Righteous', cursive;
-  flex-grow: 1;
-  color: #d5ebfd;
-  line-height: 135px;
-}
-.promotion_wrapper .promotion_animation .left span {
-  display: block;
-}
-
-.promotion_wrapper .promotion_animation .right {
-  line-height: 135px;
-}
-
-.promotion_wrapper .promotion_animation .right div {
-  width: 280px;
-  height: 280px;
-  background-size: contain !important;
-}
-
-.promotion_wrapper .enroll_wrapper {
-  text-align: center;
-}
-
-.promotion_wrapper .enroll_title {
-  font-family: 'Righteous', cursive;
-  font-size: 26px;
-  color: #4e4e4e;
-}
-
-.promotion_wrapper .enroll_discl {
-  font-weight: 300;
-  font-size: 12px;
-  width: 271px;
-  margin: 0 auto;
-  padding: 10px 0px;
-}
-
-.promotion_wrapper .enroll_input {
-  width: 330px;
-  margin: 0 auto;
-  padding: 10px 0px;
-}
-
-.promotion_wrapper .enroll_input .progress {
-  margin-top: 20px;
-}
-
-.promotion_wrapper .jersey {
-  background: url('../Resources/images/jersey.jpg') no-repeat;
+  background: #fff;
+  .promotion_animation {
+    display: flex;
+    padding: 80px 0px 30px 0px;
+    .left {
+      text-transform: uppercase;
+      text-transform: uppercase;
+      font-size: 150px;
+      font-family: 'Righteous', cursive;
+      flex-grow: 1;
+      color: #d5ebfd;
+      line-height: 135px;
+      span {
+        display: block;
+      }
+    }
+    .right {
+      line-height: 135px;
+      div {
+        width: 280px;
+        height: 280px;
+        background-size: contain !important;
+      }
+    }
+  }
+  .enroll_wrapper {
+    text-align: center;
+  }
+  .enroll_title {
+    font-family: 'Righteous', cursive;
+    font-size: 26px;
+    color: #4e4e4e;
+  }
+  .enroll_discl {
+    font-weight: 300;
+    font-size: 12px;
+    width: 271px;
+    margin: 0 auto;
+    padding: 10px 0px;
+  }
+  .enroll_input {
+    width: 330px;
+    margin: 0 auto;
+    padding: 10px 0px;
+    .progress {
+      margin-top: 20px;
+    }
+  }
+  .jersey {
+    background: url('../Resources/images/jersey.jpg') no-repeat;
+  }
 }
