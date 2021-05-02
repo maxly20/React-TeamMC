@@ -54,7 +54,7 @@ const Text = () => {
             transform: `translate(${x}px,${y}px)`,
           }}
         >
-          PremierLeague
+          Premier
         </div>
       )}
     </Animate>

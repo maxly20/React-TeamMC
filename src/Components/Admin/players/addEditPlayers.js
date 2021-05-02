@@ -116,6 +116,7 @@ const AddEditPlayers = props => {
       setFormType('add');
       setValues(defaultValues);
     }
+    // eslint-disable-next-line
   }, [props.match.params.playerid]);
 
   const updateImageName = filename => {

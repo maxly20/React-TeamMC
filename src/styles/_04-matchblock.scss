@@ -1,5 +1,5 @@
 .match_block .match_date {
-  color: #ffffff;
+  color: #fff;
   font-size: 18px;
 }
 
@@ -13,7 +13,7 @@
 
 .match_block .match_wrapper .match_top .left,
 .match_block .match_wrapper .match_bottom .left {
-  background: #ffffff;
+  background: #fff;
   font-family: 'Righteous', cursive;
   flex-grow: 1;
   margin-right: 5px;
@@ -41,7 +41,7 @@
 .match_block .match_wrapper .match_bottom .right {
   background: #0e1731;
   width: 70px;
-  color: #ffffff;
+  color: #fff;
   font-size: 50px;
   text-align: center;
   padding-top: 6px;
@@ -107,7 +107,7 @@
   color: #656565;
 }
 .match_filters .option {
-  background: #ffffff;
+  background: #fff;
   padding: 5px 9px;
   border-radius: 3px;
   font-size: 13px;
@@ -152,14 +152,14 @@
 }
 
 .player_card_wrapper {
-  background: #ffffff;
+  background: #fff;
   border: 1px solid #ececec;
   width: 300px;
   padding: 10px 10px 20px 10px;
   font-family: 'Righteous';
 }
 .player_card_wrapper .player_card_thmb {
-  border: 1px solid #eeeeee;
+  border: 1px solid #eee;
   width: 100%;
   height: 250px;
   background-repeat: no-repeat !important;
