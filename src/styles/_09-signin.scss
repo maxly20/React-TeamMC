@@ -3,25 +3,22 @@
   padding: 20px;
   min-height: 70vh;
   text-align: center;
+  form {
+    width: 350px;
+    margin: 0 auto;
+    button {
+      width: 100%;
+      padding: 10px;
+    }
+  }
+  h2 {
+    font-family: 'Righteous', cursive;
+    color: #98c6e9;
+    font-size: 50px;
+  }
 }
 
-.signin_wrapper form {
-  width: 350px;
-  margin: 0 auto;
-}
-
-.signin_wrapper form button {
-  width: 100%;
-  padding: 10px;
-}
-
-.signin_wrapper h2 {
-  font-family: 'Righteous', cursive;
-  color: #98c6e9;
-  font-size: 50px;
-}
-
-.user_dashboard {
+.signin_wrapper .user_dashboard {
   font-size: 60px;
   font-family: 'Righteous', cursive;
   color: #d5ebfe;
